@@ -1,0 +1,8 @@
+MY CAPSTONE PROJECT
+This notebook is going to be used for my capstone project
+
+import pandas as pd
+import numpy as np
+
+print('Hello Capstone Project Course!')
+Hello Capstone Project Course!
